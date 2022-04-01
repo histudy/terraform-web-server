@@ -16,7 +16,7 @@ data "sakuracloud_archive" "debian" {
 }
 
 resource "sakuracloud_disk" "production_official_site" {
-  name              = "test"
+  name              = "for official site"
   source_archive_id = data.sakuracloud_archive.debian.id
 }
 
