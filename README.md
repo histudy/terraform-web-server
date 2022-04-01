@@ -12,6 +12,5 @@
 [基本的な使い方 - Usacloudドキュメント](https://docs.usacloud.jp/usacloud/guides/basic_usage/)
 
 ## API
-さくらのクラウドに histudy のアカウントがあります。  
-histudy アカウントにユーザー登録の上、各自で API を発行してご利用下さい。  
+さくらのクラウドの histudy アカウントからユーザー各自で API を発行してご利用下さい。  
 ユーザー未登録の方は、histudy メンバーに登録をご依頼下さい。  
